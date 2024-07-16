@@ -1,0 +1,9 @@
+Task 1
+https://medium.com/@tajbidtousif/choosing-the-right-data-structure-for-efficient-data-storage-in-the-professional-sector-3b30b14295c4
+
+Task 2
+https://ably.com/blog/websockets-vs-long-polling
+
+Task 3
+https://www.youtube.com/watch?v=w9I8R3WSVqc
+
